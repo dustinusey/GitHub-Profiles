@@ -1,5 +1,3 @@
-import React from "react";
-
 const Repos = (props) => {
   return (
     <div className="w-[48%] h-[220px] ">
