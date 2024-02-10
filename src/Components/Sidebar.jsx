@@ -8,7 +8,7 @@ export default function Sidebar() {
     <>
       <aside
         id="default-sidebar"
-        className="w-[450px] h-full rounded-lg overflow-hidden"
+        className="border border-zinc-00 w-[450px] h-full rounded-xl overflow-hidden"
         aria-label="Sidebar"
       >
         <div className="h-full px-3 py-4 overflow-y-auto bg-gray-50 dark:bg-gray-800">
@@ -39,7 +39,7 @@ export default function Sidebar() {
               <li>
                 <a
                   href="#"
-                  className="rounded-tl-md rounded-tr-md border-zinc-100 border-b-2 flex items-center px-2 py-3 text-gray-900  dark:text-white hover:bg-gray-100 dark:hover:bg-gray-700 group"
+                  className="rounded-tl-md rounded-tr-md border-zinc-100 border-b-2 flex items-center px-2 py-5 text-gray-900  dark:text-white hover:bg-gray-100 dark:hover:bg-gray-700 group"
                 >
                   <svg
                     className="w-6 h-6 text-gray-800 dark:text-white"
@@ -64,7 +64,7 @@ export default function Sidebar() {
               <li>
                 <a
                   href="#"
-                  className="rounded-tl-md rounded-tr-md border-zinc-100 border-b-2 flex items-center px-2 py-3 text-gray-900  dark:text-white hover:bg-gray-100 dark:hover:bg-gray-700 group"
+                  className="rounded-tl-md rounded-tr-md border-zinc-100 border-b-2 flex items-center px-2 py-5 text-gray-900  dark:text-white hover:bg-gray-100 dark:hover:bg-gray-700 group"
                 >
                   <svg
                     className="w-6 h-6 text-gray-800 dark:text-white"
@@ -90,7 +90,7 @@ export default function Sidebar() {
               <li>
                 <a
                   href="#"
-                  className="rounded-tl-md rounded-tr-md border-zinc-100 border-b-2 flex items-center px-2 py-3 text-gray-900  dark:text-white hover:bg-gray-100 dark:hover:bg-gray-700 group"
+                  className="rounded-tl-md rounded-tr-md border-zinc-100 border-b-2 flex items-center px-2 py-5 text-gray-900  dark:text-white hover:bg-gray-100 dark:hover:bg-gray-700 group"
                 >
                   <svg
                     className="w-6 h-6 text-gray-800 dark:text-white"
@@ -115,7 +115,7 @@ export default function Sidebar() {
               <li>
                 <a
                   href="#"
-                  className="rounded-tl-md rounded-tr-md border-zinc-100 border-b-2 flex items-center px-3 py-3 text-gray-900  dark:text-white hover:bg-gray-100 dark:hover:bg-gray-700 group"
+                  className="rounded-tl-md rounded-tr-md border-zinc-100 border-b-2 flex items-center px-3 py-5 text-gray-900  dark:text-white hover:bg-gray-100 dark:hover:bg-gray-700 group"
                 >
                   <svg
                     className="w-6 h-6 text-gray-800 dark:text-white"
@@ -142,7 +142,7 @@ export default function Sidebar() {
               <li>
                 <a
                   href="#"
-                  className="rounded-tl-md rounded-tr-md border-zinc-100 border-b-2 flex items-center px-2 py-3 text-gray-900  dark:text-white hover:bg-gray-100 dark:hover:bg-gray-700 group"
+                  className="rounded-tl-md rounded-tr-md border-zinc-100 border-b-2 flex items-center px-2 py-5 text-gray-900  dark:text-white hover:bg-gray-100 dark:hover:bg-gray-700 group"
                 >
                   <svg
                     className="w-6 h-6 text-gray-800 dark:text-white"
@@ -167,7 +167,7 @@ export default function Sidebar() {
               <li>
                 <a
                   href="#"
-                  className="rounded-tl-md rounded-tr-md border-zinc-100 border-b-2 flex items-center px-2 py-3 text-gray-900  dark:text-white hover:bg-gray-100 dark:hover:bg-gray-700 group"
+                  className="rounded-tl-md rounded-tr-md border-zinc-100 border-b-2 flex items-center px-2 py-5 text-gray-900  dark:text-white hover:bg-gray-100 dark:hover:bg-gray-700 group"
                 >
                   <svg
                     className="w-6 h-6 text-gray-800 dark:text-white"
@@ -193,7 +193,7 @@ export default function Sidebar() {
               <li>
                 <a
                   href="#"
-                  className="rounded-tl-md rounded-tr-md border-zinc-100 border-b-2 flex items-center px-2 py-3 text-gray-900  dark:text-white hover:bg-gray-100 dark:hover:bg-gray-700 group"
+                  className="rounded-tl-md rounded-tr-md border-zinc-100 border-b-2 flex items-center px-2 py-5 text-gray-900  dark:text-white hover:bg-gray-100 dark:hover:bg-gray-700 group"
                 >
                   <svg
                     className="w-6 h-6 text-gray-800 dark:text-white"
@@ -218,7 +218,7 @@ export default function Sidebar() {
               <li>
                 <a
                   href="#"
-                  className="rounded-tl-md rounded-tr-md border-zinc-100 border-b-2 flex items-center px-3 py-3 text-gray-900  dark:text-white hover:bg-gray-100 dark:hover:bg-gray-700 group"
+                  className="rounded-tl-md rounded-tr-md border-zinc-100 border-b-2 flex items-center px-2 py-5 text-gray-900  dark:text-white hover:bg-gray-100 dark:hover:bg-gray-700 group"
                 >
                   <svg
                     className="w-6 h-6 text-gray-800 dark:text-white"
@@ -243,7 +243,7 @@ export default function Sidebar() {
               <li>
                 <a
                   href="#"
-                  className="rounded-tl-md rounded-tr-md border-zinc-100 border-b-2 flex items-center px-3 py-3 text-gray-900  dark:text-white hover:bg-gray-100 dark:hover:bg-gray-700 group"
+                  className="rounded-tl-md rounded-tr-md border-zinc-100 border-b-2 flex items-center px-2 py-5 text-gray-900  dark:text-white hover:bg-gray-100 dark:hover:bg-gray-700 group"
                 >
                   <svg
                     className="w-6 h-6 text-gray-800 dark:text-white"

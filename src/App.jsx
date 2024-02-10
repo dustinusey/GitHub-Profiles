@@ -35,7 +35,7 @@ export default function App() {
   }
 
   return (
-    <div className="bg-white grid place-items-center p-5 h-screen">
+    <div className="bg-zinc-800 grid place-items-center p-5 h-screen">
       <AppState.Provider
         value={{
           user,
